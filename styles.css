@@ -1,0 +1,10 @@
+/* #banner{
+    background-image: url("background-pic.jpg");
+    height: 400px;
+    width: 50%;
+} */
+
+
+.custom-font-h1 {
+    font-family: 'Roboto', sans-serif;
+}
